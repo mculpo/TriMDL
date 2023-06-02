@@ -73,5 +73,6 @@ TriMDL foi inspirado pela necessidade e estudo de uma biblioteca simples e efici
 
 ## Base de Dados para Implementação
 
+https://www.fileformat.info/format/wavefrontobj/egff.htm
 https://docs.blender.org/manual/pt/2.79/addons/io_obj.html
 
