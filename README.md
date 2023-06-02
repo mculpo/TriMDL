@@ -71,3 +71,7 @@ TriMDL é lançado sob a Licença Apache-2.0. Você tem permissão para usar, mo
 
 TriMDL foi inspirado pela necessidade e estudo de uma biblioteca simples e eficiente para carregar dados de malhas tridimensionais em C.
 
+## Base de Dados para Implementação
+
+https://docs.blender.org/manual/pt/2.79/addons/io_obj.html
+
